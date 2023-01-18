@@ -1,3 +1,3 @@
 def cross(n):
-    print('elo')
+    print('siema')
     pass
